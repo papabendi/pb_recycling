@@ -1,3 +1,6 @@
+
+<img width="962" height="272" alt="PB Development Logo Long - Transparent" src="https://github.com/user-attachments/assets/cb55d26b-d505-405f-9ebe-2c5acce82932" />
+
 # PB Recycling
 ## Recycling Script for FiveM
 

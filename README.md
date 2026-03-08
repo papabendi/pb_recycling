@@ -3,6 +3,7 @@
 
 # PB Recycling [QBCore / QBOX]
 ## Recycling Script for FiveM
+ESX coming soon.
 
 - Download from CFX Portal: https://portal.cfx.re/assets/granted-assets
 - Purchase from Tebex: https://store.papabendi.dev/
